@@ -1,7 +1,7 @@
 var baseUrl = false;
 
 $(document).ready(function() {
-    if(baseUrl === false) window.alert("Couldn't find your locker, you might need to add a config.js (see dev.singly.com)");
+    if(baseUrl === false) window.alert("Couldn't find your locker, you might need to add a config.js (see https://me.singly.com/Me/devdocs/)");
 });
 
 $(function() {
