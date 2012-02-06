@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "repository": {
     "description": "A minimal Locker application to start building from.",
-    "title": "Skeleton Viewer App",
+    "title": "Skeleton App",
     "type": "app",
     "static": true,
     "handle": "skeleton-app",
