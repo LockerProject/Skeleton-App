@@ -1,22 +1,16 @@
 {
   "author": "Singly Team <nerds@singly.com>",
-  "name": "Skeleton-Viewer",
-  "description": "A minimal Locker application to start building from.",
+  "name": "Skeleton-App",
   "version": "0.0.1",
   "repository": {
-    "handle": "skeleton-viewer",
+    "description": "A minimal Locker application to start building from.",
     "title": "Skeleton Viewer App",
     "type": "app",
     "static": true,
+    "handle": "skeleton-app",
     "uses": {
         "types":["photos"],
         "services":["twitter", "flickr", "instagram"]
-    },
-    "url": "git://github.com/LockerProject/Skeleton-Viewer.git"
-  },
-  "engines": {
-    "node": ">=0.4.9"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+    }
+  }
 }
