@@ -2,8 +2,8 @@
   "author": "Singly Team <nerds@singly.com>",
   "name": "Skeleton-App",
   "version": "0.0.1",
+  "description": "A minimal Locker application to start building from.",
   "repository": {
-    "description": "A minimal Locker application to start building from.",
     "title": "Skeleton App",
     "type": "app",
     "static": true,
